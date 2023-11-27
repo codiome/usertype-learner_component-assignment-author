@@ -1,0 +1,8 @@
+{
+  "name": "learner assignment-author plugin",
+  "type": "helper",
+  "properties": {
+    "user_type": "learner",
+    "component": "assignment-author"
+  }
+}
